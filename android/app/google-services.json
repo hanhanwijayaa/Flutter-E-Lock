@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "405078555167",
+    "firebase_url": "https://elock-app.firebaseio.com",
+    "project_id": "elock-app",
+    "storage_bucket": "elock-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405078555167:android:1715208138ad4b4167b32a",
+        "android_client_info": {
+          "package_name": "com.hanhanwijaya.elock_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405078555167-4nmtau67d1ejk2bdift6qs5a15d2agck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanhanwijaya.elock_app",
+            "certificate_hash": "c1e335ffc714ca810e0f82caa4f607fa080dfc05"
+          }
+        },
+        {
+          "client_id": "405078555167-nnj2ev6g5avuhld0o6l6gsbsjpn4782p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanhanwijaya.elock_app",
+            "certificate_hash": "b582d97a3c6212e81b06823db0bc5cfd83ae4a32"
+          }
+        },
+        {
+          "client_id": "405078555167-sr7iidmn6jancbb3rh17plneka7ea8ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--WFrWpJyARi7YMvecpsFdAAEcRmSats"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405078555167-sr7iidmn6jancbb3rh17plneka7ea8ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405078555167:android:98e2f33274d414fd67b32a",
+        "android_client_info": {
+          "package_name": "io.github.edufolly.flutterbluetoothserialexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405078555167-6uqq8dtiaa038iealacv373kfuu32828.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.edufolly.flutterbluetoothserialexample",
+            "certificate_hash": "c1e335ffc714ca810e0f82caa4f607fa080dfc05"
+          }
+        },
+        {
+          "client_id": "405078555167-sr7iidmn6jancbb3rh17plneka7ea8ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--WFrWpJyARi7YMvecpsFdAAEcRmSats"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405078555167-sr7iidmn6jancbb3rh17plneka7ea8ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
